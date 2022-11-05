@@ -1,8 +1,14 @@
+# 𝙿𝚛𝚟_𝟹𝟻_𝙱𝙾𝚃
+
+Very Sempil Bot Auto Filter bot
+
+##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+𝐏𝐫𝐯-35-𝑭𝑰𝑳𝑻𝑬𝑹-𝑩𝑶𝑻!;created+by+𝗣𝗥𝗔𝗡𝗔𝗩+𝐌𝐎𝐕𝐈𝐄𝐬+𝐇𝐔𝐁!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
+
 See<p align="center">
-  <img src="assets/AJAX.png" alt="Ajax Techz">
+  <img src="https://i.ibb.co/SrYpdxT/file-169.jpg" alt="𝙿𝚁𝙰𝙽𝙰𝚅">
 </p>
 <h1 align="center">
-  <b>ᗩᒍᗩ᙭ 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃 𝚅3</b>
+  <b> 𝙿𝚁𝙰𝙽𝙰𝚅 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃 𝚅3 </b>
 </h1>
 <a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
   <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-red?logo=youtube" width="150">
